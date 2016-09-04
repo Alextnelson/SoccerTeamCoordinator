@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SoccerCoordinator
 //
-//  Created by Gabriel Nadel on 3/29/16.
+//  Created by Alex Nelson on 9/3/2016.
 //  Copyright © 2016 Treehouse. All rights reserved.
 //
 
